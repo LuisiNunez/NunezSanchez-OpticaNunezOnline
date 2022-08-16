@@ -19,7 +19,7 @@ En el último año, inicia su proyecto de ***venta online*** de dos de sus produ
 
 Roboto
 
-![Roboto](https://fonts.google.com/specimen/Roboto?query=Roboto)
+[Link a Google Fonts: Roboto](https://fonts.google.com/specimen/Roboto?query=Roboto)
 
 **Paleta de colores**
 
@@ -29,8 +29,8 @@ Roboto
 - color4 { #191013 };
 - color5 { #243a69 }
 
-![PaletaDeColores](https://drive.google.com/file/d/1CnuBxMKA6fHB8PPLWjiQvyNUQjRR6zL9/view?usp=sharing)
+![PaletaDeColores](paleta-nuvemshop-d4cdc5.png)
 
 **Logo**
 
-![LogoOpticaNuñez](https://drive.google.com/file/d/1LQNSGhnLdDoHgb9rbOy7WM2qkFUZtXJ3/view?usp=sharing)
+![LogoOpticaNuñez](LogoOpticaNuñez.jpeg)
